@@ -4,11 +4,12 @@
 
 html {
   line-height: 1.6;
+  font-size: 15px;
 }
 
 body {
   margin: 0;
-  font-family: sans-serif;
+  font-family: 'Open Sans', Arial, sans-serif;
   background: $dark-color;
   color: $light-color;
 }

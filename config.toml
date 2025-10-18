@@ -35,3 +35,8 @@
     name = "About"
     url = "/about/"
     weight = 3
+[[menu.main]]
+    identifier = "OS"
+    name = "OS"
+    url = "/opensource/"
+    weight = 3

@@ -5,7 +5,7 @@
 
 [params]
   author = "Piotr Rudnicki"
-  description = "For NERDS mostly"
+  description = "For NERDS, mostly"
   menu_item_separator = " - "
 
   [[params.social]]

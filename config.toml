@@ -35,8 +35,13 @@
     name = "About"
     url = "/about/"
     weight = 3
-[[menu.main]]
-    identifier = "OS"
-    name = "OS"
-    url = "/opensource/"
+  [[menu.main]]
+    identifier = "Library"
+    name = "Library"
+    url = "/library/"
     weight = 3
+  [[menu.main]]
+      identifier = "OS"
+      name = "OS"
+      url = "/opensource/"
+      weight = 4
